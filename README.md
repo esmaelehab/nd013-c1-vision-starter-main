@@ -184,7 +184,7 @@ After training and evaluating our model we got this results and there is signifi
 ![Capture4](https://user-images.githubusercontent.com/63879362/218111061-ed4a7a4d-9069-4e0b-a380-565e023adbcd.PNG)
 
 
-I tested the model with the inference video with a testing video in the day and night, the model managed to predict 100% of the cars but sometimes dedict other objects as cars thats means that we may need to increase our precision, you can find the videos is the repo videos directory
+I tested the model with the inference video with a testing video in the day and night, the model managed to predict 100% of the cars but sometimes dedict other objects as cars thats means that we may need to increase our precision, you can find the videos for day and night is the repository videos directory
 
 
 
